@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Queue.h
+
+/Users/crazy_di/Documents/Code/C++/test_01/main.cpp
+iostream
+-
+Queue.h
+/Users/crazy_di/Documents/Code/C++/test_01/Queue.h
+
